@@ -21,7 +21,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Book-an-Appointment <a name="about-project"></a>
+# 📖 Hello-react-frontend <a name="about-project"></a>
 
 **Hello-react-frontend** A small rails react project setup.
 
