@@ -6,7 +6,7 @@ import './App.css';
 const App = () => (
   <Router>
     <Routes>
-      <Route path='/' element={<HelloWorld />} />
+      <Route path="/" element={<HelloWorld />} />
     </Routes>
   </Router>
 );
